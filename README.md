@@ -17,16 +17,50 @@ Due to **academic confidentiality**, the full source code cannot be published. T
 
 ## 📸 Key Features  
 
-Here are some examples of the app in action (placeholders for now – add images later):  
+Here are some examples of the app in action:  
 
-![Main Map View](images/map_view_placeholder.png)  
+### 1. General View
 *Main interactive map with POIs and navigation.*  
 
-![Night Mode](images/night_mode_placeholder.png)  
-*Customizable night mode for easier viewing.*  
+<p align="center">
+  <img src="images/All POI.png" width="50%">
+  <img src="images/Info Page.png" width="40%">
+</p>
 
-![Pathfinding Example](images/pathfinding_placeholder.png)  
-*Route planning using A\* algorithm.*  
+
+### 2. Light/Dark Mode Toggle
+*Customizable night mode for easier viewing.*  
+<p align="center">
+  <img src="images/Light mode 3.png" alt="Map View" width="45%">
+  <img src="images/Dark mode.png" alt="Night Mode" width="45%">
+</p>
+
+
+### 3. Customizable Points of Interest
+<p align="center">
+  <img src="images/Layer Toggle.png" alt="customized layers" width="51%">
+  <img src="images/Customized POI.png" alt="filtered poi" width="40%">
+</p>
+
+### 4. Pre-Saved Maps
+<p align="center">
+  <img src="images/NYC Map Load.png" width="65%">
+  <img src="images/Pre-saved Maps.png" width="22%">
+</p>
+
+### 4.Path-Finding and Directions
+<p align="center">
+  <img src="images/Pathway Finder Visualization.png" width="45%">
+  <img src="images/Pathway Finder Directions.png" width="45%">
+</p>
+
+### 5.Email Directions
+<p align="center">
+  <img src="images/Email sent confirmation.png" width="55%">
+  <img src="images/EmailSent.png" width="30%">
+</p>
+
+
 
 ---
 
